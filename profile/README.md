@@ -1,4 +1,4 @@
-## Welcome to the palace of Choson, stranger.
+## *Trust your Uniqueness* - Algorix Corp.
 
 <!-- ## Hi there 👋
 
@@ -12,3 +12,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<!--
+Technology is just a tool. It's up to us to decide where it takes us.
+--> 
