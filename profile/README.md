@@ -1,4 +1,4 @@
-## *Trust your Uniqueness* - Algorix Corp.
+## *Trust your Uniqueness*
 
 <!-- ## Hi there 👋
 
